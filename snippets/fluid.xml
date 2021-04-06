@@ -15,6 +15,7 @@
 
   <!-- Rootdir -->
   <project path="bionic" name="bionic" groups="pdk" remote="fluid" />
+  <project path="lineage-sdk" name="lineage-sdk" remote="fluid" />
   <project path="manifest" name="manifest" remote="fluid" />
 
   <!-- Bootable -->
